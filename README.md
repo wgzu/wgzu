@@ -15,4 +15,4 @@ I'm a mobile developer building apps for Android and iOS, mainly with **Flutter*
 
 ## GitHub Stats
 
-[![JC's GitHub stats](https://github-stats-extended.vercel.app/api?username=jc-wu1)](https://github.com/stats-organization/github-stats-extended)
+[![JC's GitHub stats](https://github-stats-extended.vercel.app/api?username=wgzu)](https://github.com/stats-organization/github-stats-extended)

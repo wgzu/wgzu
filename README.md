@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving hand"> Hey, I'm JC
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving hand"> Hey,
 
 I'm a mobile developer building apps for Android and iOS, mainly with **Flutter** and **Dart**. I also enjoy working on the parts behind the UI, from API integration to databases.
 
